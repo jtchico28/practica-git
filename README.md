@@ -82,16 +82,4 @@ Este archivo contiene las respuestas a las preguntas planteadas en la práctica 
       ```
     - **Razón:** Regresa el repositorio al estado final, después de haber añadido el título al poema.
 
----
 
-## Notas Adicionales
-
-- Todos los pasos fueron realizados en un único repositorio, ya que forman parte de un flujo de trabajo continuo.
-- Para los merges con conflictos, se resolvieron manualmente siguiendo las indicaciones del ejercicio.
-
----
-
-### **Cómo ejecutar este repositorio**
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
